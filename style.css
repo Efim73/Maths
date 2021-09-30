@@ -1,0 +1,99 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+form{
+    background-color: white;
+    width: 50%;
+    margin: auto;
+    overflow: hidden;
+    margin-top: 50px;
+    padding: 40px;
+    font-family: 'Nunito', sans-serif;
+}
+#exercise{
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+h1{
+    font-size: 60px;
+    text-align: center;
+    color: rgb(202, 202, 202);
+    border-bottom: 2px solid gray ;
+    font-family: 'Nunito', sans-serif;
+    border-radius: 1px;
+}
+body{
+    background-color: black;
+    background: url(pexels-lumn-167682.jpg);
+    background-size: 100%;
+}
+h2{
+    font-size: 40px;
+    color: black;
+}
+p{
+    font-size: 30px;
+    margin-bottom: 30px;
+    font-family: 'Nunito', sans-serif;
+}
+
+#green{
+    width: 50%;
+    float: right;
+
+    color: green;
+    
+
+}
+#red{
+    color: red; 
+    float: left;
+    width: 50%;
+}
+#yellow{
+    color: rgb(197, 197, 57);
+
+}
+
+input{
+    display: block;
+    width: 100%;
+    margin: auto;
+    font-size: 20px;
+    height: 70px;
+}
+#plusMinus{
+    display: block;
+    text-align: center;
+    
+    
+}
+#plusMinus button{
+    /* margin-right: 40px; */
+    background: none;
+    border: none;
+    width: 50%;
+    display: block ;
+    float: left;
+    /* height: 60px; */
+    color: rgb(114, 114, 114);
+    font-size: 24px;
+    /* background-color: cadetblue; */
+    line-height: 35px;
+    margin-bottom: 30px;
+}
+#confirm{
+    height: 50px;
+    font-size: 30px;
+    text-align: center;
+    margin: auto;
+    display: block;
+    background: none;
+    border: none;
+    color: rgb(201, 197, 197);
+    /* background-color: brown; */
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
